@@ -33,4 +33,4 @@ naverWeather [![License](https://img.shields.io/badge/License-Apache%202.0-blue.
 ```
 * 현재 적용 가능 지역 : 부산, 서울, 춘천, 강릉, 청주, 수원, 안동, 대전, 제주, 여수, 전주, 대구, 광주, 목포, 울산
 
-* 주의 사항 : 해당 프로그램은 selenium의 기능을 포함하고 있습니다. Chrome driver를 기반으로 작성하였으며, co19Stat.py의 line.35의 driver path를 사용자에 따라 수정해야 할 필요가 있습니다
+* 주의 사항 : 해당 프로그램은 selenium의 기능을 포함하고 있습니다. Chrome driver를 기반으로 작성하였으며, [co19Stat.py](https://github.com/DaeguKIng/naverWeather/blob/master/co19Stat.py)   line 35의 driver path를 사용자에 따라 수정해야 할 필요가 있습니다.
