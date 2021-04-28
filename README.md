@@ -5,7 +5,7 @@ naverWeather [![License](https://img.shields.io/badge/License-Apache%202.0-blue.
 * [naver 날씨](https://weather.naver.com/), [코로나바이러스감염증-19](http://ncov.mohw.go.kr/) 정보를 크롤링합니다.
 
 * 실행 : 지역 입력 시 해당 지역의 현재 날씨 정보와 COVID-19에 대한 정보를 얻을 수 있습니다.
- getWeather(), getStat()을 통해 각 정보를 반환 받을 수 있습니다. [naverWeather.py](https://github.com/DaeguKIng/naverWeather/blob/master/naverWeather.py) [co19Stat.py](https://github.com/DaeguKIng/naverWeather/blob/master/co19Stat.py) 에서 정의된 변수들을 이용하여 상황에 필요한 환경을 직접 구축할 수 있습니다.
+ getWeather(), getStat()을 통해 각 정보를 반환 받을 수 있습니다. [naverWeather.py](https://github.com/DaeguKIng/naverWeather/blob/master/naverWeather.py),   [co19Stat.py](https://github.com/DaeguKIng/naverWeather/blob/master/co19Stat.py) 에서 정의된 변수들을 이용하여 상황에 필요한 환경을 직접 구축할 수 있습니다.
  [feature](https://github.com/DaeguKIng/naverWeather/tree/feature) 브랜치를 통해 새 기능 추가 및 소스 수정을 할 수 있습니다.
 
 * 실행 결과 :
